@@ -5,8 +5,11 @@ This repository contains the backend implementation of a basic Loan Management S
 Key Features:
 
 CRUD operations for managing customers, loans, repayments, demands, and collections.
+
 RESTful API endpoints for data interaction.
+
 Integration with PostgreSQL for database storage.
+
 Technologies Used:
 
 Java
