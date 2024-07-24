@@ -13,8 +13,11 @@ Integration with PostgreSQL for database storage.
 Technologies Used:
 
 Java
+
 Spring Boot
+
 Maven
+
 PostgreSQL
 
 Note: This project serves as a foundational backend system for a Loan Management application. It does not include frontend components.
